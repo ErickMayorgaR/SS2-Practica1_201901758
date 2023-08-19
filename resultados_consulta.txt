@@ -1,0 +1,136 @@
+Tabla,TotalRegistros
+('Cliente', 2000)
+('DescProducto', 55)
+('Empleado', 2000)
+('Entrega', 1223)
+('EstadoEntrega', 5)
+('InfoProducto', 1580)
+('Tiempo', 332)
+
+
+Cliente,TotalEntregas
+('Catalina Vargas', 4)
+('David Aguilar', 4)
+('Natalia Reyes', 4)
+('Ricardo Ríos', 4)
+('Sofía Delgado', 4)
+
+
+Producto,costoEnvio
+(' Envío de equipos deportivos', Decimal('49.97'))
+(' Envío de productos de limpieza', Decimal('49.95'))
+(' Envío de productos médicos', Decimal('49.93'))
+(' Caja de herramientas', Decimal('49.92'))
+(' Envío a domicilio', Decimal('49.91'))
+
+
+Ciudad,TotalEntregas
+('Barberena', 33)
+('Jalapa', 33)
+('Amatitlán', 32)
+('Sumpango', 31)
+('San Pablo Jocopilas', 31)
+
+
+Producto,Cantidad
+(' Caja de mercancía', 9)
+(' Bulto pesado', 8)
+(' Envío económico', 7)
+(' Carga industrial', 6)
+(' Envío aéreo', 6)
+
+
+Producto,Cantidad
+(' Envío de productos frágiles', 9)
+(' Envío a domicilio', 8)
+(' Envío de productos médicos', 8)
+(' Bulto pesado', 7)
+(' Envío de juguetes', 7)
+
+
+Ciudad,TotalEntregas
+('Ostuncalco', 15)
+('Sumpango', 31)
+('Patulul', 25)
+('Retalhuleu', 24)
+('Santa Catarina Pinula', 20)
+('Chiquimula', 25)
+('San Benito', 20)
+('Guatemala City', 21)
+('Asunción Mita', 19)
+('Sololá', 17)
+('Mazatenango', 27)
+('Amatitlán', 32)
+('Jacaltenango', 28)
+('Barberena', 33)
+('Jalapa', 33)
+('Santa Lucía Cotzumalguapa', 24)
+('San Francisco El Alto', 24)
+('Huehuetenango', 19)
+('Malacatán', 23)
+('Quetzaltenango', 23)
+('San Pablo Jocopilas', 31)
+('Villa Canales', 21)
+('Ciudad Vieja', 17)
+('San Cristóbal Verapaz', 22)
+('Cobán', 25)
+('Escuintla', 25)
+('Villa Nueva', 24)
+('San Pedro Ayampuc', 23)
+('Palín', 25)
+('Jutiapa', 19)
+('San Marcos', 27)
+('San Lucas Sacatepéquez', 22)
+('Nahualá', 23)
+('Totonicapán', 25)
+('Sanarate', 27)
+('Jocotenango', 24)
+('Coatepeque', 25)
+('La Gomera', 23)
+('Nebaj', 25)
+('Cantel', 19)
+('Chicacao', 20)
+('Puerto Barrios', 22)
+('Santa Cruz del Quiché', 26)
+('Mixco', 16)
+('San Juan Sacatepéquez', 27)
+('Chimaltenango', 27)
+('San Pedro Sacatepéquez', 29)
+('San José Pinula', 31)
+('Patzún', 24)
+('Antigua Guatemala', 23)
+('Petapa', 23)
+
+
+Dia,TotalEntregas
+('Domingo', 163)
+('Jueves', 175)
+('Lunes', 186)
+('Martes', 179)
+('Miércoles', 166)
+('Sábado', 198)
+('Viernes', 156)
+
+
+Mes,TotalEntregas
+('Abril', 100)
+('Agosto', 90)
+('Diciembre', 114)
+('Enero', 96)
+('Febrero', 110)
+('Julio', 93)
+('Junio', 116)
+('Marzo', 106)
+('Mayo', 98)
+('Noviembre', 102)
+('Octubre', 94)
+('Septiembre', 104)
+
+
+Anio,TotalEntregas
+(2020, 334)
+(2021, 283)
+(2022, 305)
+(2023, 301)
+
+
